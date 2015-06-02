@@ -2,7 +2,7 @@
  * Concurrency.h
  *
  *  Created on: Jan 12, 2015
- *      Author: lwewym0
+ *      Author: Marek Wyborski
  */
 
 #ifndef CONCURRENCY_H_
